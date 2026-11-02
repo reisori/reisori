@@ -42,7 +42,7 @@ I take on select freelance projects in backend development, automation scripting
 ---
 
 ### 📈 GitHub Stats & Activity Graph
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?reisori=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apireisori=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reisori&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
