@@ -45,13 +45,15 @@ I take on select freelance projects in backend development, automation scripting
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apireisori=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reisori&show_icons=true&theme=radical&hide_border=true" alt="Reisori's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reisori&show_icons=true&theme=radical&hide_border=true" alt="reisori's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisori&layout=compact&theme=radical&hide_border=true" alt="Reisori's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reisori&layout=compact&theme=radical&hide_border=true" alt="reisori's Top Languages" />
 </p>
 
+### 📉 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reisori&theme=react-dark&hide_border=true&area=true" alt="Reisori's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reisori&theme=react-dark&hide_border=true&area=true" alt="reisori's Activity Graph" />
 </p>
