@@ -44,7 +44,8 @@ I take on select freelance projects in backend development, automation scripting
 ### 📈 GitHub Stats & Activity Graph
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apireisori=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 <p align="center">
-
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=reisori&layout=donut-vertical&theme=prussian" alt="Common Languages"/>
+</p>
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=reisori&rank_icon=github&custom_title=Statistics&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&include_all_commits=true&theme=prussian" alt="reisori's Top Languages" />
 </p>
